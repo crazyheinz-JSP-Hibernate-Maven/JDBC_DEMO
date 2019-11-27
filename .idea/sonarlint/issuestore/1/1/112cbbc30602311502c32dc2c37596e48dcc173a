@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«×¿×8È¯æ«´-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‘É‘Á8Þ»ç«´-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ç¡«…8†¿è«´-
+jsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(·”¤‰øÿÿÿÿ8ðû«´-
+Rsquid:S1481"/Remove this unused "categoryID" local variable.(Øœüñýÿÿÿÿ8¶ÝÑ®´-
+jsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÊõÞàþÿÿÿÿ8µ¤™¬´-
+>squid:S2068" Remove this hard-coded password.(—ÑØó8¦ðå«´-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(÷àì¬8Â´—®´-
